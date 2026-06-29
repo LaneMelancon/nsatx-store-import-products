@@ -1,0 +1,17 @@
+{
+  "name": "atx-prod-ingest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "NeuroSolution ATX Shopify supplement import via GraphQL Admin API",
+  "scripts": {
+    "setup:metaobjects": "node --env-file=.env scripts/01-setup-metaobjects.js",
+    "setup:entries": "node --env-file=.env scripts/02-setup-metaobject-entries.js",
+    "import:products": "node --env-file=.env scripts/03-import-products.js",
+    "verify": "node --env-file=.env scripts/04-verify.js",
+    "setup:metaobjects:prod": "node --env-file=.env.production scripts/01-setup-metaobjects.js",
+    "setup:entries:prod": "node --env-file=.env.production scripts/02-setup-metaobject-entries.js",
+    "import:products:prod": "node --env-file=.env.production scripts/03-import-products.js",
+    "verify:prod": "node --env-file=.env.production scripts/04-verify.js"
+  }
+}

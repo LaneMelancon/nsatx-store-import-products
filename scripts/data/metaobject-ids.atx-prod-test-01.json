@@ -1,0 +1,51 @@
+{
+  "categories": {
+    "Appetite": "gid://shopify/Metaobject/229069422741",
+    "Blood Sugar": "gid://shopify/Metaobject/229069455509",
+    "Brain": "gid://shopify/Metaobject/229069488277",
+    "Cardiovascular": "gid://shopify/Metaobject/229069521045",
+    "Cellular": "gid://shopify/Metaobject/229069553813",
+    "Endocrine": "gid://shopify/Metaobject/229069586581",
+    "Female Vitality": "gid://shopify/Metaobject/229069619349",
+    "Gastrointestinal": "gid://shopify/Metaobject/229069652117",
+    "Hepatobiliary": "gid://shopify/Metaobject/229069684885",
+    "Immune System": "gid://shopify/Metaobject/229069717653",
+    "Male Vitality": "gid://shopify/Metaobject/229069750421",
+    "Metabolism": "gid://shopify/Metaobject/229069783189",
+    "Mitochondrial Support": "gid://shopify/Metaobject/229069815957",
+    "Mood": "gid://shopify/Metaobject/229069848725",
+    "Musculoskeletal": "gid://shopify/Metaobject/229069881493",
+    "Occasional Stress": "gid://shopify/Metaobject/229069914261",
+    "Pets": "gid://shopify/Metaobject/229069947029",
+    "Protein Support": "gid://shopify/Metaobject/229069979797",
+    "Sleep": "gid://shopify/Metaobject/229070012565",
+    "Urinary": "gid://shopify/Metaobject/229070045333"
+  },
+  "flavors": {
+    "Unflavored": "gid://shopify/Metaobject/229070078101",
+    "Mango Strawberry": "gid://shopify/Metaobject/229070110869",
+    "Lemon": "gid://shopify/Metaobject/229070143637",
+    "Vanilla": "gid://shopify/Metaobject/229070176405",
+    "Chocolate Banana": "gid://shopify/Metaobject/229070209173",
+    "Peppermint": "gid://shopify/Metaobject/229070241941",
+    "Orange": "gid://shopify/Metaobject/229070274709",
+    "Peach Mango": "gid://shopify/Metaobject/229070307477",
+    "Lemon Lime": "gid://shopify/Metaobject/229070340245",
+    "Citrus": "gid://shopify/Metaobject/229070373013",
+    "Slightly-Seaweed": "gid://shopify/Metaobject/229070405781",
+    "Cherry": "gid://shopify/Metaobject/229070438549",
+    "Mixed Berry": "gid://shopify/Metaobject/229070471317"
+  },
+  "forms": {
+    "Capsules": "gid://shopify/Metaobject/229070504085",
+    "Food Topper": "gid://shopify/Metaobject/229070536853",
+    "Liposomal": "gid://shopify/Metaobject/229070569621",
+    "Liquid": "gid://shopify/Metaobject/229070602389",
+    "Lozenges": "gid://shopify/Metaobject/229070635157",
+    "Packets": "gid://shopify/Metaobject/229070667925",
+    "Powder": "gid://shopify/Metaobject/229070700693",
+    "Softgels": "gid://shopify/Metaobject/229070733461",
+    "Spray": "gid://shopify/Metaobject/229070766229",
+    "Tablets": "gid://shopify/Metaobject/229070798997"
+  }
+}
