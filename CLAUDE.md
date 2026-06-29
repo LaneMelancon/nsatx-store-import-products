@@ -3,6 +3,7 @@
 **Maintained By:** Lane Melancon — Onn Grid, LLC
 **Client:** Dr. Brandon Crawford — NeuroSolution Center of Austin
 **Last Updated:** 2026-06-29
+**GitHub Repo:** `https://github.com/LaneMelancon/nsatx-store-import-products`
 
 ---
 
